@@ -1,0 +1,29 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: rgb(221, 197, 132);
+}
+
+h1{
+	text-align: center;
+	color: darkgreen;
+}
+
+.my-box{
+	max-width: 400px;
+	margin:100px auto;
+	background-color: honeydew;
+	padding: 50px;
+	border: 1px;
+	border-radius: 25px;
+}
+
+label{
+	display: block;
+	margin-bottom: 10px;
+	font-weight: bold;
+	color: rgb(227, 98, 98);
+}
+
+input[type="submit"]:hover{
+	background-color: chocolate;
+}
